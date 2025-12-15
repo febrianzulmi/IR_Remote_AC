@@ -1,4 +1,4 @@
-# AirLink - Sistem Kontrol AC via Bluetooth & IR
+# Sistem Kontrol AC via Bluetooth & IR
 ---
 
 ## 🎯 Overview Sistem
@@ -330,4 +330,5 @@ SWING_OFF   → Nonaktifkan swing
 - ✅ LED indicators
 
 ---
+
 
